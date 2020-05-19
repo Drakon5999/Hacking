@@ -1,4 +1,4 @@
-## Exploiting XInclude to retrieve files
+## Exploiting XXE via image file upload
 1. Находим что в комментариях можно указывать аватар
 2. Создаем картинку, на которой бы рисовалось содержимое файла: 
 ```<?xml version="1.0" standalone="yes"?>
